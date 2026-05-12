@@ -20,6 +20,8 @@ Je développe principalement des applications web et mobiles adaptées aux réal
 
 ## Technologies & Outils
 
+<img src="assets/jun4.png" alt="" width="200">
+
 ### Langages
 - Python  
 - JavaScript  
