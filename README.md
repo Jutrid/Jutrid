@@ -6,12 +6,22 @@ Développeur Web & Mobile | Passionné par la création d’applications utiles
 
 ## À propos de moi
 
-Je suis un développeur web indépendant passionné par la création d’applications utiles, modernes et sécurisées.  
+<div>
+    <img src="assets/jun1.png" alt="" width="150" style="float: left; margin: 1px 30px 10px 0;">
+</div>
+
+<br>
+Développeur Full-Stack passionné et basé en RDC, je transforme des idées complexes en solutions numériques intuitives. 
+
+Que ce soit pour le Web, le Mobile ou le Bureau, je conçois des logiciels robustes et scalables. Mon objectif : allier performance technique et expérience utilisateur pour accompagner la transformation digitale locale et internationale.
+
+Développeur indépendant passionné par la création d’applications utiles, modernes et sécurisées.  
 J’aime transformer des idées en solutions concrètes, surtout dans les domaines de la gestion, de l’éducation et des systèmes internes.
 
-Je développe principalement des applications web et mobiles adaptées aux réalités locales, entreprises et ONG.
+Je développe principalement des applications web et mobiles adaptées aux réalités locales, entreprises et Structures.
 
----
+
+<br><br><br><br>
 
 ## Technologies & Outils
 
