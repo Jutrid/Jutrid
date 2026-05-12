@@ -1,16 +1,104 @@
-## Hi there 👋
+# Salut, moi c'est Jun !!
 
-<!--
-**Jutrid/Jutrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Web & Mobile | Passionné par la création d’applications utiles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## À propos de moi
+
+Je suis un développeur web indépendant passionné par la création d’applications utiles, modernes et sécurisées.  
+J’aime transformer des idées en solutions concrètes, surtout dans les domaines de la gestion, de l’éducation et des systèmes internes.
+
+Je développe principalement des applications web et mobiles adaptées aux réalités locales, entreprises et ONG.
+
+---
+
+## Technologies & Outils
+
+### 💻 Langages
+- Python  
+- JavaScript  
+- HTML5 / CSS3  
+
+### Développement Web
+- Django  
+- Django REST Framework  
+- React JS  
+- MySQL  
+- API REST  
+- Git & GitHub  
+
+### Développement Mobile
+- Flutter  
+- Kivy / KivyMD  
+- Flet  
+
+### Environnement & DevOps
+- Linux (WSL / Ubuntu)  
+- VS Code  
+- GitHub Actions  
+
+---
+
+## 📌 Domaines de projets
+
+Je travaille beaucoup sur des applications de gestion :
+
+- 🏫 Gestion d’écoles 
+- 📦 Gestion de colis  
+- 🏨 Réservation d’hôtel  
+- 📨 Gestion de courriers  
+- 🍺 Gestion de commandes clients  
+- 🌍 Applications pour des nombeux Structures 
+- Etc ...
+
+Objectif : créer des solutions utiles et adaptées aux besoins réels.
+
+---
+
+## 📚 En cours d’apprentissage
+
+J’élargis actuellement ma stack pour devenir encore plus polyvalent :
+
+- React Native  
+- Vue.js  
+- Rust  
+- Docker  
+
+---
+
+## Objectifs
+
+- Devenir expert en développement mobile  
+- Construire des produits SaaS  
+- Contribuer à des projets open source  
+- Créer des solutions technologiques impactantes en Afrique 🌍  
+
+---
+
+## Collaboration
+
+Je suis ouvert aux collaborations sur :
+
+- Projets web Django / React  
+- Applications mobiles Flutter / React Native  
+- Outils de gestion  
+- Projets open source  
+
+---
+
+## 📞 Me contacter
+
+📱 Téléphone / WhatsApp  
+- +243 813 623 899  
+- +243 892 885 972  
+
+📧 Email  
+- junsimba5@gmail.com  
+
+💼 LinkedIn  
+- www.linkedin.com/in/jun-simba
+
+---
+
+⭐ Merci de visiter mon profil !
