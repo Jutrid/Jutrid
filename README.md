@@ -6,9 +6,7 @@ Développeur Web & Mobile | Passionné par la création d’applications utiles
 
 ## À propos de moi
 
-<div>
-    <img src="assets/jun1.png" alt="" width="150" style="float: left; margin: 1px 30px 10px 0;">
-</div>
+<img src="assets/jun1.png" alt="" width="150">
 
 <br>
 Développeur Full-Stack passionné et basé en RDC, je transforme des idées complexes en solutions numériques intuitives. 
@@ -20,12 +18,9 @@ J’aime transformer des idées en solutions concrètes, surtout dans les domain
 
 Je développe principalement des applications web et mobiles adaptées aux réalités locales, entreprises et Structures.
 
-
-<br><br><br><br>
-
 ## Technologies & Outils
 
-### 💻 Langages
+### Langages
 - Python  
 - JavaScript  
 - HTML5 / CSS3  
@@ -78,15 +73,18 @@ J’élargis actuellement ma stack pour devenir encore plus polyvalent :
 ---
 
 ## Objectifs
+<img src="assets/jun2.png" alt="" width="150">
 
 - Devenir expert en développement mobile  
 - Construire des produits SaaS  
 - Contribuer à des projets open source  
 - Créer des solutions technologiques impactantes en Afrique 🌍  
 
+
 ---
 
 ## Collaboration
+<img src="assets/jun3.png" alt="" width="150">
 
 Je suis ouvert aux collaborations sur :
 
