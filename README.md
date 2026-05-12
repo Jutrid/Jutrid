@@ -65,6 +65,8 @@ Objectif : créer des solutions utiles et adaptées aux besoins réels.
 
 ## 📚 En cours d’apprentissage
 
+<img src="assets/jun5.png" alt="" width="150">
+
 J’élargis actuellement ma stack pour devenir encore plus polyvalent :
 
 - React Native  
