@@ -9,7 +9,7 @@ Développeur Web & Mobile | Passionné par la création d’applications utiles
 <img src="assets/jun1.png" alt="" width="150">
 
 <br>
-Développeur Full-Stack passionné et basé en RDC, je transforme des idées complexes en solutions numériques intuitives. 
+Développeur Full-Stack passionné et basé en RDC 🇨🇩, je transforme des idées complexes en solutions numériques intuitives. 
 
 Que ce soit pour le Web, le Mobile ou le Bureau, je conçois des logiciels robustes et scalables. Mon objectif : allier performance technique et expérience utilisateur pour accompagner la transformation digitale locale et internationale.
 
