@@ -29,8 +29,8 @@ Je développe principalement des applications web et mobiles adaptées aux réal
 
 ### Développement Web  
 
-| [<img src="https://www.fullstackpython.com/img/logos/django.png" alt="js logo" width="75">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://miro.medium.com/1*2s1wDawTeYaGohs6zlHq4A.png" alt="php logo" width="88">](https://php.net/)  | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuE_K83Lu-0XPxUNjKGXabYKfyWdPR67K0uA&s" alt="typescript logo" width="65">](https://www.typescriptlang.org/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="python logo" width="38">](https://www.python.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" alt="java logo" width="50">](https://docs.oracle.com/en/java/)
-|---|---|---|---|---|
+| [<img src="https://www.fullstackpython.com/img/logos/django.png" alt="js logo" width="75">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://miro.medium.com/1*2s1wDawTeYaGohs6zlHq4A.png" alt="php logo" width="88">](https://php.net/)  | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuE_K83Lu-0XPxUNjKGXabYKfyWdPR67K0uA&s" alt="typescript logo" width="65">](https://www.typescriptlang.org/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="python logo" width="38">](https://www.python.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" alt="java logo" width="50">](https://docs.oracle.com/en/java/) |[<img src="https://www.fullstackpython.com/img/logos/flask.jpg" alt="java logo" width="90">](https://docs.oracle.com/en/java/) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-rOwWVPddQJKI2hz6n5VvVxJj-mymkS5C86J0R4xrXeG4CkuQPw5lBH6&s=10" alt="java logo" width="90">](https://docs.oracle.com/en/java/) 
+|---|---|---|---|---|---|---|
 
 ### Développement Mobile
 
@@ -45,8 +45,17 @@ Je développe principalement des applications web et mobiles adaptées aux réal
 ### Environnement & DevOps
 - Linux (WSL / Ubuntu)  
 - VS Code  
-- GitHub Actions  
+- Pycharm
+- WebStorm
+- Android Studio
+- Postman 
 - Git & GitHub  
+
+### Analyse de Données
+- Pandas
+- Numpy
+- Matplolib
+- Jupyper Notebook
 
 ---
 
