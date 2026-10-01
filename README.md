@@ -1,126 +1,119 @@
-# Salut, moi c'est Jun !!
+# Jun Simba
 
-Développeur Web & Mobile | Passionné par la création d’applications utiles
+Développeur Full-Stack & Mobile | Création de solutions numériques modernes, utiles et performantes
 
 ---
 
 ## À propos de moi
 
-<img src="assets/jun1.png" alt="" width="150">
+Je suis un développeur passionné par la création d’applications web et mobiles qui simplifient les tâches, améliorent les processus et apportent une vraie valeur aux utilisateurs.
 
-<br>
-Développeur Full-Stack passionné et basé en RDC 🇨🇩, je transforme des idées complexes en solutions numériques intuitives. 
+Basé en RDC 🇨🇩, je conçois des solutions fiables, évolutives et faciles à utiliser pour les entreprises, les organisations et les particuliers. J’aime transformer des idées en produits numériques concrets, fonctionnels et adaptés aux réalités du terrain.
 
-Que ce soit pour le Web, le Mobile ou le Bureau, je conçois des logiciels robustes et scalables. Mon objectif : allier performance technique et expérience utilisateur pour accompagner la transformation digitale locale et internationale.
+Je développe principalement des applications de gestion, des outils internes, des plateformes web et des solutions mobiles orientées business. Mon objectif est d’allier performance technique, expérience utilisateur et impact réel sur l’activité.
 
-Développeur indépendant passionné par la création d’applications utiles, modernes et sécurisées.  
-J’aime transformer des idées en solutions concrètes, surtout dans les domaines de la gestion, de l’éducation et des systèmes internes.
-
-Je développe principalement des applications web et mobiles adaptées aux réalités locales, entreprises et Structures.
+---
 
 ## Technologies & Outils
 
-<img src="assets/jun4.png" alt="" width="200">
+### Langages de programmation
 
-### Langages 
+| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="38">](https://developer.mozilla.org/fr/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="38">](https://www.typescriptlang.org/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="40">](https://www.python.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="42">](https://dart.dev/) | [<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang" width="42">](https://go.dev/) |
+|---|---|---|---|---|
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="35">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="js logo" width="35">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://static.wikia.nocookie.net/coding-help/images/0/05/CSS3_Logo.PNG/revision/latest/thumbnail/width/360/height/360?cb=20210129221230" alt="php logo" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript logo" width="35">](https://www.typescriptlang.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="38">](https://www.python.org/) | [<img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1.jpg" alt="java logo" width="50">](https://docs.oracle.com/en/java/)
+### Développement Web
+
+| [<img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django" width="80">](https://www.djangoproject.com/) | [<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="90">](https://fastapi.tiangolo.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png" alt="Node.js" width="70">](https://nodejs.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="44">](https://react.dev/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="44">](https://getbootstrap.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="52">](https://tailwindcss.com/) |
 |---|---|---|---|---|---|
-
-### Développement Web  
-
-| [<img src="https://www.fullstackpython.com/img/logos/django.png" alt="js logo" width="75">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://miro.medium.com/1*2s1wDawTeYaGohs6zlHq4A.png" alt="php logo" width="88">](https://php.net/)  | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuE_K83Lu-0XPxUNjKGXabYKfyWdPR67K0uA&s" alt="typescript logo" width="65">](https://www.typescriptlang.org/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="python logo" width="38">](https://www.python.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" alt="java logo" width="50">](https://docs.oracle.com/en/java/) |[<img src="https://www.fullstackpython.com/img/logos/flask.jpg" alt="java logo" width="90">](https://docs.oracle.com/en/java/) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-rOwWVPddQJKI2hz6n5VvVxJj-mymkS5C86J0R4xrXeG4CkuQPw5lBH6&s=10" alt="java logo" width="90">](https://docs.oracle.com/en/java/) 
-|---|---|---|---|---|---|---|
 
 ### Développement Mobile
 
-| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOTGLpRQIfbiwGixMl9BWIePzWJN4yPc6kQA&s" alt="js logo" width="95">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://i.sstatic.net/qoIkr.png" alt="php logo" width="38">](https://php.net/)  | [<img src="https://pypi-camo.freetls.fastly.net/bed0ecf0530fac63cc49e4e32d8817cf21903a7d/68747470733a2f2f6769746875622e636f6d2f6b6976796d642f696e7465726e616c2f7261772f6d61696e2f6c6f676f2f6b6976796d645f6c6f676f5f626c75652e706e67" alt="typescript logo" width="35">](https://www.typescriptlang.org/) 
-|---|---|---|
+| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HoDPHQLs3A__g52GS8pdO7sJqAnlHDjuSLNHE4nokpIX0IfKDaI-VOx1&s=10" alt="Flutter" width="90">](https://flutter.dev/) | [<img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="95">](https://reactnative.dev/) |
+|---|---|
 
-### Base de Données
+### Bases de données
 
-| [<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" alt="js logo" width="95">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://bsconsultores.com.pe/wp-content/uploads/2024/02/1_mMq3Bem9r8ASAn1YwcTbEw.png" alt="php logo" width="98">](https://php.net/)  | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPpYnbJTvN4q7WinjryvgtBpR4S3HZ7OkoGg&s" alt="typescript logo" width="75">](https://www.typescriptlang.org/) | [<img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="php logo" width="38">](https://php.net/)
+| [<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" alt="MySQL" width="90">](https://www.mysql.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="64">](https://www.postgresql.org/) | [<img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite" width="90">](https://www.sqlite.org/) | [<img src="https://blog.back4app.com/wp-content/uploads/2021/05/Firebase-Logo.png" alt="Firebase" width="120">](https://firebase.google.com/) |
 |---|---|---|---|
 
-### Environnement & DevOps
-- Linux (WSL / Ubuntu)  
-- VS Code  
-- Pycharm
+### Outils & DevOps
+
+- Linux / WSL / Ubuntu
+- VS Code
+- PyCharm
 - WebStorm
 - Android Studio
-- Postman 
-- Git & GitHub  
+- Postman
+- Git & GitHub
+- Docker
 
-### Analyse de Données
+### Analyse de données
+
 - Pandas
-- Numpy
-- Matplolib
-- Jupyper Notebook
+- NumPy
+- Matplotlib
+- Jupyter Notebook
 
 ---
 
 ## 📌 Domaines de projets
 
-Je travaille beaucoup sur des applications de gestion :
+Je travaille principalement sur des solutions de gestion et des outils numériques orientés performance, simplicité d’utilisation et optimisation des processus :
 
-- 🏫 Gestion d’écoles 
-- 📦 Gestion de colis  
-- 🏨 Réservation d’hôtel  
-- 📨 Gestion de courriers  
-- 🍺 Gestion de commandes clients  
-- 🌍 Applications pour des nombeux Structures 
-- Etc ...
+- 🏫 Gestion scolaire
+- 📦 Gestion de colis et logistique
+- 🏨 Réservation d’hôtel
+- 📨 Gestion de courriers
+- 🍺 Gestion de commandes clients
+- 🌍 Applications pour structures, entreprises et institutions
+- ⚙️ Outils internes et systèmes de gestion
 
-Objectif : créer des solutions utiles et adaptées aux besoins réels.
+Mon objectif est de concevoir des solutions concrètes, élégantes et faciles à adopter dans le quotidien des utilisateurs.
 
 ---
 
 ## 📚 En cours d’apprentissage
 
-<img src="assets/jun5.png" alt="" width="150">
 
-J’élargis actuellement ma stack pour devenir encore plus polyvalent :
+Je continue d’élargir ma stack pour renforcer mon expertise et rester à la pointe des technologies :
 
-- React Native  
-- Vue.js  
-- Rust  
-- Docker  
+- React Native
+- Vue.js
+- Rust
+- Docker
 
 ---
 
 ## Objectifs
-<img src="assets/jun2.png" alt="" width="150">
 
-- Devenir expert en développement mobile  
-- Construire des produits SaaS  
-- Contribuer à des projets open source  
-- Créer des solutions technologiques impactantes en Afrique 🌍  
-
+- Devenir expert en développement mobile
+- Construire des produits SaaS de qualité
+- Contribuer à des projets open source
+- Créer des solutions technologiques à fort impact en Afrique 🌍
 
 ---
 
 ## Collaboration
-<img src="assets/jun3.png" alt="" width="150">
 
-Je suis ouvert aux collaborations sur :
+Je suis ouvert à la collaboration sur :
 
-- Projets web Django / React  
-- Applications mobiles Flutter / React Native  
-- Outils de gestion  
-- Projets open source  
+- Projets web Django / React
+- Applications mobiles Flutter / React Native
+- Outils de gestion et solutions internes
+- Projets open source
 
 ---
 
 ## 📞 Me contacter
 
-📱 Téléphone / WhatsApp  
-- +243 813 623 899  
-- +243 892 885 972  
+📱 Téléphone / WhatsApp
+- +243 813 623 899
+- +243 892 885 972
 
-📧 Email  
-- junsimba5@gmail.com  
+📧 Email
+- junsimba5@gmail.com
 
-💼 LinkedIn  
+💼 LinkedIn
 - www.linkedin.com/in/jun-simba
 
 ---
