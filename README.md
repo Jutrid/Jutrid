@@ -104,17 +104,14 @@ Je suis ouvert à la collaboration sur :
 
 ---
 
-## 📞 Me contacter
+## 🌐 Mes Réseaux et  contactes
 
-📱 Téléphone / WhatsApp
-- +243 813 623 899
-- +243 892 885 972
-
-📧 Email
-- junsimba5@gmail.com
-
-💼 LinkedIn
-- www.linkedin.com/in/jun-simba
+<p align="center">
+  <a href="mailto:junsimba5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/243813623899"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://wa.me/243813623899"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jun-simba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
